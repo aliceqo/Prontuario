@@ -2,8 +2,8 @@ Projeto acadêmico de um sistema de prontuário eletrônico desenvolvido para de
 
 ## Tecnologias Utilizadas:
 
-- Frontend: Interface desenvolvida em Java com NetBeans
-- Backend: Java
+- Front-end: Interface desenvolvida em Java com NetBeans
+- Back-end: Java
 - Banco de Dados: MySQL (utilizando MySQL Workbench)
 
 ## Funcionalidades:
